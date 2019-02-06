@@ -20,3 +20,8 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+install npm dulu : npm install -g create-nuxt-app
+npx create-nuxt-app my_project
+
+ngantuk : time : 23:01
