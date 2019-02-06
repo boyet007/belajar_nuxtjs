@@ -21,6 +21,8 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
 
+link belajar : https://www.youtube.com/watch?v=nteDXuqBfn0&t=641s
+
 install npm dulu : npm install -g create-nuxt-app
 npx create-nuxt-app my_project
 
